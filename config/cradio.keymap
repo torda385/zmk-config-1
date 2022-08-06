@@ -30,9 +30,9 @@ behaviors {
                 default_layer {
                         bindings = <
    &kp ESC 		&kp Q &kp M &kp E &kp R &none &none &none     	   &none  		&none
-   &kp KP_N7 		&kp A &kp W &kp D &kp F &none &none &none		  &none         &none
+   &kp LSHFT 		&kp A &kp W &kp D &kp F &none &none &none		  &none         &none
    &kp Z  &kp X &kp S &kp C &kp V &none &none &none  &none &none
-			    &kp LSHFT  &kp SPACE &none &none 
+			    &kp LCTRL  &kp SPACE &none &none 
                         >;
                 };
 
