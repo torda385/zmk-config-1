@@ -20,7 +20,6 @@ behaviors {
         timeout-ms = <50>;
         key-positions = <0 1>;
         bindings = <&kp TAB>;
-        layers = <0>;
 
     };
 
